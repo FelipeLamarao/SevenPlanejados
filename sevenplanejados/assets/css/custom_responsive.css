@@ -1,0 +1,47 @@
+@media(max-width: 900px){
+    header.masthead {
+        margin-top: 74px;
+    }
+    img.mfp-img{
+        height: unset;
+    }
+    .logo-img {
+        height: 50px;
+        width: auto;
+        margin-left: 4px;
+        color: #ddac28;
+    }
+    .mb-5, .my-5{
+        margin-bottom: 1rem!important;
+    }
+    .form-fields {
+        width: 100%;
+        margin: 0px;
+        padding: 0px;
+    }
+    .page-section {
+        padding: 35px 13px;
+    }
+    .std-input, .std-select, .std-textarea {
+        font-size: 11px;
+        padding: 4px 6px 7px 12px;
+    }
+    .pg-footer .container .small{
+        text-align: center !important;
+        margin-top: 15px;
+    }
+    .social-links{
+        padding: 0px;
+        margin: 0px;
+    }
+    .social-links__item {
+        margin: 15px;
+    }
+    .std-label {
+        font-size: 8px;
+        padding: 8px 10px;
+    }
+    .hide-mobile{
+        display: none;
+    }
+}
